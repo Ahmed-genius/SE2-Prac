@@ -2,7 +2,7 @@ package mvcexample;
 
 /**
  *
- * @author savi
+ * @author Savi
  */
 // Launcher for application
 
